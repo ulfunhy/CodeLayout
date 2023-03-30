@@ -7,5 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="hot_pink">#EA145D</color>
+    <color name="hot_pink">#EA145D</color>      <!--유지보수를 위해 나눔-->
+    <color name="btn1">#FF5722</color>
+    <color name="btn2">#FFEB3B</color>
+    <color name="btn3">#4CAF50</color>
+    <color name="btn4">#2196F3</color>
 </resources>
